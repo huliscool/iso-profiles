@@ -159,9 +159,6 @@ xcursor-vanilla-dmz-aa
 dmidecode # optional dependency inxi
 engrampa
 firefox
-hexchat
-tor
-vlc
 # >extra flashplugin
 >extra galculator
 gcolor2
@@ -169,7 +166,7 @@ gcolor2
 gparted
 gufw
 >extra audacious
->extra hexchat
+hexchat
 htop
 qpdfview
 inxi
@@ -191,7 +188,8 @@ screenfetch
 >extra poppler-data  # CKJ support for pdf
 #>basic sylpheed # mail client
 >extra thunderbird
->extra vlc
+tor
+vlc
 >extra viewnior
 >extra xfburn
 >extra yelp
