@@ -30,7 +30,6 @@ gst-plugins-ugly
 libdvdcss
 >multilib manjaro-alsa
 manjaro-pulse
-pulseaudio-bluetooth
 pulseaudio-ctl
 pulseaudio-zeroconf
 
@@ -101,7 +100,6 @@ xfdesktop
 xfwm4
 
 ## XFCE Extras
-blueman
 ffmpegthumbnailer  # tumbler - for video thumbnails
 freetype2          # tumbler - for font thumbnails
 gksu
@@ -160,7 +158,9 @@ xcursor-vanilla-dmz-aa
 >extra catfish
 dmidecode # optional dependency inxi
 engrampa
->extra firefox
+firefox
+hexchat
+tor
 # >extra flashplugin
 >extra galculator
 gcolor2
@@ -180,7 +180,6 @@ manjaro-hello
 manjaro-application-utility
 manjaro-settings-manager
 manjaro-settings-manager-notifier
->basic midori
 >extra mlocate
 mousepad
 mugshot
