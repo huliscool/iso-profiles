@@ -189,6 +189,7 @@ screenfetch
 #>basic sylpheed # mail client
 >extra thunderbird
 tor
+torbrowser-launcher
 vlc
 >extra viewnior
 >extra xfburn
